@@ -49,6 +49,6 @@ let app = new App();
 
 console.log(app.factorial(5));
 
-console.log(app.convertirAstring(5));
+console.log(app.convertirAstring());
 
 console.log(app.obtenerDivisibles(6));
